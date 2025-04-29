@@ -1,2 +1,2 @@
 # wanessa-GitHub-4-Women
-Working with GitHub Repositories
+Atividade do módulo de entendimento de repositórios
